@@ -33,32 +33,32 @@
   <summary>Contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el proyecto</a>
+      <a href="#about">Sobre el proyecto</a>
       <ul>
-        <li><a href="#desarrollado-con:">Desarrollado con</a></li>
-        <li><a href="#desarrollado-con:">¿Por qué esas tecnologías?</a></li>
+        <li><a href="#developed-with">Desarrollado con</a></li>
+        <li><a href="#tech">¿Por qué esas tecnologías?</a></li>
       </ul>
     </li>
     <li><a href="#license">Licencia</a></li>
     <li><a href="#contact">Contacto</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
 </details>
 
 
-
+<a name="about"/>
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-<img src="/src/assets/images/screenshot.png" alt="Screenshot"/>
-<img src="/src/assets/images/screenshot-dark.png" alt="Screenshot dark theme"/>
+<img src="https://github.com/AdrianGlez18/neobanks-caixa-nuwe-hackathon/blob/main/assets/images/screenshot.png" alt="Screenshot"/>
+<img src="https://github.com/AdrianGlez18/neobanks-caixa-nuwe-hackathon/blob/main/assets/images/screenshot-dark.png" alt="Screenshot dark theme"/>
 
 El reto consistía en implementar un Dashboard para la startup NeoBanks. Se debía realizar únicamente el frontend, usando datos de prueba.
 El diseño que debía seguirse es el siguiente: <a href="https://www.figma.com/file/SxdHiAzQFC7oyBO0FeQGhh?node-id=502:2097">Enlace al Figma</a>
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
 
-
+<a name="developed-with"/>
 
 ### Desarrollado con:
 
@@ -72,6 +72,8 @@ Para llevar a cabo este proyecto, se ha hecho uso de las siguientes tecnologías
 * [Recharts](https://recharts.org/en-US/)
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
+
+<a name="tech"/>
 
 ### ¿Por qué esas tecnologías?
 
@@ -92,6 +94,8 @@ El sistema de grid de Bootstrap es bastante más flexible que el de Chakra, por 
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
 
+<a name="licence"/>
+
 <!-- LICENSE -->
 ## Licencia
 
@@ -99,7 +103,7 @@ Distribuido con la licencia MIT (open source). Leer `LICENSE.txt` para más info
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
 
-
+<a name="contact"/>
 
 <!-- CONTACT -->
 ## Contacto
@@ -110,7 +114,7 @@ Portfolio: [aglez.dev](https://aglez.dev)
 
 <p align="right">(<a href="#top">Volver arriba</a>)</p>
 
-
+<a name="acknowledgments"/>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Agradecimientos
