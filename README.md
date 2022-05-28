@@ -20,7 +20,7 @@
     Proyecto desarrollado el 28/05/2022 para la hackathon de Caixabank Tech
     <br />
     <br />
-    <a href="https://github.com/AdrianGlez18/neobanks-caixa-nuwe-hackathon">Ver Demo</a>
+    <a href="https://neobanks-react.netlify.app/">Ver Demo (Netlify)</a>
     ·
     <a href="mailto:contact@aglez.dev">Contacto</a>
   </p>
@@ -47,12 +47,14 @@
 
 
 <a name="about"/>
+
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
-
+<br/>
 <img src="https://github.com/AdrianGlez18/neobanks-caixa-nuwe-hackathon/blob/main/assets/images/screenshot.png" alt="Screenshot"/>
+<br/>
 <img src="https://github.com/AdrianGlez18/neobanks-caixa-nuwe-hackathon/blob/main/assets/images/screenshot-dark.png" alt="Screenshot dark theme"/>
-
+<br/>
 El reto consistía en implementar un Dashboard para la startup NeoBanks. Se debía realizar únicamente el frontend, usando datos de prueba.
 El diseño que debía seguirse es el siguiente: <a href="https://www.figma.com/file/SxdHiAzQFC7oyBO0FeQGhh?node-id=502:2097">Enlace al Figma</a>
 
